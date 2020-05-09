@@ -1,0 +1,21 @@
+{
+  "name": "nickjs-demo",
+  "version": "1.0.0",
+  "description": "Simple Web Scraping Example using NickJS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scraping",
+    "web",
+    "scraper",
+    "node",
+    "scraper"
+  ],
+  "author": "Chris Mendez",
+  "license": "ISC",
+  "dependencies": {
+    "nickjs": "^0.3.7"
+  }
+}
