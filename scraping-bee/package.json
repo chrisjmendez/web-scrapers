@@ -1,0 +1,18 @@
+{
+  "name": "scraping-bee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-queue": "^3.8.10",
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
